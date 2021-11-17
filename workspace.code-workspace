@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../50 projects"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../jsPractice"
+		},
+		{
+			"path": "../../fabrikaUkusa"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "50 projects"
+	}
+}
